@@ -11,3 +11,7 @@ Acesse: https://www.qaninja.io/espresso
 
 # Documento de Apresentação da Configuração:
 Acesse: https://bit.ly/30MD6RE
+
+# Como rodar os testes?
+Acessar a classe Instrumentation e clicar na seta verde ao lado do método runTests.
+Não esquecer de verificar se a tag está correta.

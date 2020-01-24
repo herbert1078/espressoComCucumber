@@ -15,3 +15,4 @@ Acesse: https://bit.ly/30MD6RE
 # Como rodar os testes?
 Acessar a classe Instrumentation e clicar na seta verde ao lado do método runTests.
 Não esquecer de verificar se a tag está correta.
+Vídeo de Como configurar e rodar os testes: https://bit.ly/2usjLJw

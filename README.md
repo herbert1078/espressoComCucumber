@@ -8,3 +8,6 @@ Adicionado a Classe de ScreenRobot com vários métodos que podemos utilizar nos
 
 # Quer aprender mais Sobre Espresso Android? 
 Acesse: https://www.qaninja.io/espresso
+
+# Documento de Apresentação da Configuração:
+Acesse: https://bit.ly/30MD6RE
